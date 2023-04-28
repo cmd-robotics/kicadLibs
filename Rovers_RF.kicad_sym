@@ -158,7 +158,7 @@
     (property "Value" "nRF52833-QDAA" (at 20.32 -38.1 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-40-1EP_5x5mm_P0.4mm_EP4.6x4.6mm" (at 0 -53.34 0)
+    (property "Footprint" "Package_DFN_QFN:TQFN-40-1EP_5x5mm_P0.4mm_EP3.5x3.5mm_ThermalVias" (at 0 -53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://infocenter.nordicsemi.com/pdf/nRF52833_PS_v1.5.pdf" (at 1.27 -16.51 0)
