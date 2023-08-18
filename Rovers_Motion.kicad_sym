@@ -6,10 +6,10 @@
     (property "Value" "DRV8311P" (at 7.62 -29.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "rovers:TI-WQFN-24_EP_3x3_Pitch0.4mm" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 0 0 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv8311.pdf" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "DRV8311P_0_1"
