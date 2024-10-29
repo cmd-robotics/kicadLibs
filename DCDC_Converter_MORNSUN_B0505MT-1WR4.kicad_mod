@@ -28,8 +28,8 @@
   (pad "8" smd rect (at 2.794 3.81) (size 1.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 90f33609-19c3-4b66-aa98-dc2f19d6b6f7))
   (pad "13" smd rect (at 2.794 -2.54) (size 1.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e7c0be02-d5ab-4ebd-b7d9-d6cda752dcbd))
   (pad "14" smd rect (at 2.794 -3.81) (size 1.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5ac949d1-7fa3-46ad-994a-e05d7bb57291))
-  (model ":KICAD_ROVERS_SYMBOLS_DIR:B0505MT-1WR4.step"
-    (opacity 0.5200)    (offset (xyz 0 0 0))
+  (model ":CMD_R_3DMODEL_DIR:B0505MT-1WR4.step"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

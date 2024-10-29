@@ -21,7 +21,7 @@
     (thermal_bridge_angle 45) (tstamp a64669c6-cf03-4953-9532-75802f2b5e03))
   (pad "4" smd roundrect (at -1.475 1.0525) (size 2.95 1.495) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 85889810-cbb8-4fc3-9d1e-ec34a87d6b11))
-  (model ":KICAD_ROVERS_SYMBOLS_DIR:WSK1216.step"
+  (model ":CMD_R_3DMODEL_DIR:WSK1216.step"
     (offset (xyz -1.55 0 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

@@ -27,7 +27,7 @@
     (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 371ac874-204f-488a-8ff3-c11b4bc29d10))
   (pad "1" thru_hole trapezoid (at 0 2.5) (size 3.5 3.5) (rect_delta 0 -1) (drill 1.75) (layers "*.Cu" "*.Mask") (remove_unused_layers) (keep_end_layers) (tstamp 24fdf041-83ab-408b-9af8-a6f32955cc8a))
   (pad "2" thru_hole oval (at 0 -2.5) (size 4.5 3.5) (drill 1.75) (layers "*.Cu" "*.Mask") (remove_unused_layers) (keep_end_layers) (tstamp 8cd03775-909f-40eb-ba0a-110211e1c725))
-  (model "C:/Users/roman/Projects/rover/hw/kicadLibs/XT30U-M.iges"
+  (model ":CMD_R_3DMODEL_DIR:XT30U-M.iges"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

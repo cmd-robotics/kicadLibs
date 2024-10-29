@@ -118,7 +118,7 @@
   (pad "10" smd rect (at 0.900001 -0.475) (size 0.599999 0.249999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f2b064ae-fca0-4321-8394-0cf01653853d))
   (pad "11" smd rect (at 0.900001 -1.124999) (size 0.599999 0.249999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9e21efef-f1b8-4c45-aca0-9bac6e50906a))
   (pad "12" smd rect (at 0 -0.787999 90) (size 1.825 0.249999) (layers "F.Cu" "F.Mask") (tstamp 4b1bde42-51b2-430f-8b3e-c91fba020427))
-  (model "${KICAD_ROVERS_SYMBOLS_DIR}/rnx0012b.step"
+  (model ":CMD_R_3DMODEL_DIR:rnx0012b.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

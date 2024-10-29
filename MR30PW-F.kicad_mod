@@ -34,7 +34,7 @@
   (pad "1" thru_hole roundrect (at 0 3.5) (size 3.5 2.5) (drill 1.75) (layers "*.Cu" "*.Mask") (remove_unused_layers) (keep_end_layers) (roundrect_rratio 0.25) (tstamp 352fa914-7980-4974-96a9-3953e62ed055))
   (pad "2" thru_hole oval (at 0 0) (size 3.5 2.5) (drill 1.75) (layers "*.Cu" "*.Mask") (remove_unused_layers) (keep_end_layers) (tstamp 6dd1ebe3-b959-4a2a-a7f5-7e833c953f7b))
   (pad "3" thru_hole oval (at 0 -3.5) (size 3.5 2.5) (drill 1.75) (layers "*.Cu" "*.Mask") (remove_unused_layers) (keep_end_layers) (tstamp e4f7a513-4674-4e62-af30-1aabc2f3739b))
-  (model ":KICAD_ROVERS_SYMBOLS_DIR:MR30PW-F.iges"
+  (model ":CMD_R_3DMODEL_DIR:MR30PW-F.iges"
     (offset (xyz 8.1 0 2.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

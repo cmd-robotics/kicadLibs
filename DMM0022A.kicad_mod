@@ -394,7 +394,7 @@
   (pad "27" thru_hole circle (at 1.4 -1.32) (size 0.5 0.5) (drill 0.2) (layers "*.Cu" "*.Mask") (tstamp 8b7535d5-529a-4229-bafb-fd52ea8413b1))
   (pad "27" thru_hole circle (at 1.4 0) (size 0.5 0.5) (drill 0.2) (layers "*.Cu" "*.Mask") (tstamp 1cb99a0d-a19a-4296-ae3b-affc6e361d69))
   (pad "27" thru_hole circle (at 1.4 1.32) (size 0.5 0.5) (drill 0.2) (layers "*.Cu" "*.Mask") (tstamp 1f55553a-07dc-4b29-b437-432e97dfd3ce))
-  (model ":KICAD_ROVERS_SYMBOLS_DIR:CSD88584Q5DC.step"
+  (model ":CMD_R_3DMODEL_DIR:CSD88584Q5DC.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
