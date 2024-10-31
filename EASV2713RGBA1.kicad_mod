@@ -19,4 +19,9 @@
   (pad "2" smd rect (at -0.425 -0.36) (size 0.55 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e8906968-1927-47b3-860f-f3556d0c906b))
   (pad "3" smd rect (at 0.425 -0.36) (size 0.55 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 88bea673-37ad-47e2-99a2-75d61c252dd9))
   (pad "4" smd rect (at 1.3 0) (size 0.5 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fc1ed497-9f8c-4b9f-ad32-626c1d7a2cc6))
+  (model "${CMD_R_3DMODEL_DIR}/easv2713rgba.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
