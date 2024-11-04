@@ -45,4 +45,9 @@
     (thermal_bridge_angle 45) (tstamp 9ec07c33-f8e8-4bf9-883f-079abdebd47e))
   (pad "12" smd roundrect (at -1.5 2.1) (size 0.3 0.675) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1)
     (thermal_bridge_angle 45) (tstamp d128e175-09dd-4b9f-9078-269225ac6c0e))
+  (model "${CMD_R_3DMODEL_DIR}/Recom RxxC1TFxxS.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

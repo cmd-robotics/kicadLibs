@@ -1,6 +1,6 @@
 (footprint "EASV2713RGBA1" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.2 -1.6) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 29c30ed6-72ec-49dd-b667-768d25017860)
