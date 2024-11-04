@@ -23,6 +23,6 @@
   )
   (fp_circle (center 0 0) (end 1 0)
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 0e57aa74-65b5-4d26-989c-f1133d581b78))
-  (pad "" smd circle (at 0 0) (size 1 1) (layers "F.Cu" "F.Mask")
-    (solder_mask_margin 0.5) (clearance 0.5) (tstamp 24c848ca-2824-4182-ac48-bbed051e3cef))
+  (pad "" smd circle (at 0 0) (size 1 1) (property pad_prop_fiducial_glob) (layers "F.Cu" "F.Mask")
+    (clearance 0.5) (tstamp 24c848ca-2824-4182-ac48-bbed051e3cef))
 )
