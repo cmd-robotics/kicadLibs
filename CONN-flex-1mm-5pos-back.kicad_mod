@@ -1,4 +1,4 @@
-(footprint "CONN-flex-1mm-5pos"
+(footprint "CONN-flex-1mm-5pos-back"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "CONN-flex-1mm-5pos"
+	(property "Value" "CONN-flex-1mm-5pos-back"
 		(at 0.4 -6.2 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -72,7 +72,7 @@
 			(type solid)
 		)
 		(fill solid)
-		(layer "F.Mask")
+		(layer "B.Mask")
 		(uuid "85bb0a6b-6704-42eb-b9c4-1fae1377e828")
 	)
 	(fp_line
@@ -251,6 +251,51 @@
 		(layer "Edge.Cuts")
 		(uuid "ff86af9e-128c-4909-b4b1-211b0c45c61d")
 	)
+	(fp_poly
+		(pts
+			(xy 3.2 -3)
+			(arc
+				(start 0.5 -3)
+				(mid 0.429289 -3.029289)
+				(end 0.4 -3.1)
+			)
+			(arc
+				(start 0.4 -3.45)
+				(mid 0.370711 -3.520711)
+				(end 0.3 -3.55)
+			)
+			(xy -0.3 -3.55) (xy -0.7 -3)
+			(arc
+				(start -1.4 -3)
+				(mid -1.682843 -2.882843)
+				(end -1.8 -2.6)
+			)
+			(arc
+				(start -1.8 2.6)
+				(mid -1.682843 2.882843)
+				(end -1.4 3)
+			)
+			(xy -0.7 3) (xy -0.3 3.55)
+			(arc
+				(start 0.3 3.55)
+				(mid 0.370711 3.520711)
+				(end 0.4 3.45)
+			)
+			(arc
+				(start 0.4 3.1)
+				(mid 0.429289 3.029289)
+				(end 0.5 3)
+			)
+			(xy 3.2 3)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.2")
+		(uuid "7ea9b5ec-170d-46af-8163-87351f555318")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 3.2 6.8 0)
 		(unlocked yes)
@@ -264,41 +309,41 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at 0 -2)
+		(at 0 2 180)
 		(size 3 0.6)
-		(layers "F.Cu")
+		(layers "B.Cu")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "0412fce3-24e8-4921-a06d-7c2e5bbeefd5")
 	)
 	(pad "2" smd roundrect
-		(at 0 -1)
+		(at 0 1 180)
 		(size 3 0.6)
-		(layers "F.Cu")
+		(layers "B.Cu")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "f0673bff-e1f5-46db-a9e3-f242c7e6e3f4")
 	)
 	(pad "3" smd roundrect
-		(at 0 0)
+		(at 0 0 180)
 		(size 3 0.6)
-		(layers "F.Cu")
+		(layers "B.Cu")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "dd39e9ad-a586-424c-828d-081564a4ff94")
 	)
 	(pad "4" smd roundrect
-		(at 0 1)
+		(at 0 -1 180)
 		(size 3 0.6)
-		(layers "F.Cu")
+		(layers "B.Cu")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "842d4bdb-0365-421e-890c-bc0d1890d291")
 	)
 	(pad "5" smd roundrect
-		(at 0 2)
+		(at 0 -2 180)
 		(size 3 0.6)
-		(layers "F.Cu")
+		(layers "B.Cu")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "2419e91e-a028-4edf-8cc2-9e4e75cb1c39")
